@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sudo apt-get install python-dev libffi-dev build-essential virtualenvwrapper
+pip install angr

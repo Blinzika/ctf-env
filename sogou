@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "install sougou dependency"
+sudo apt-get install -y fcitx fcitx-frontend-gtk2 fcitx-frontend-gtk3 fcitx-frontend-qt4 fcitx-module-kimpanel libopencc1 fcitx-libs fcitx-libs-qt
